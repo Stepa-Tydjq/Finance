@@ -8,3 +8,6 @@ Finance финансовый консультант для директоров
 Где взять ключи?
 - BOT_TOKEN: создать бота у @BotFather
 - GIGACHAT_AUTH_KEY: получить в Sber Studio (developers.sber.ru)
+
+
+git clone https://github.com/Stepa-Tydjq/Finance.git
